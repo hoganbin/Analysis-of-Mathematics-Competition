@@ -1,0 +1,1050 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2021.1.14)  27 JUN 2021 15:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**hebing.tex
+(./hebing.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(d:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(d:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(d:/texlive/2020/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+(d:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count171
+\calc@Bcount=\count172
+\calc@Adimen=\dimen135
+\calc@Bdimen=\dimen136
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count173
+\calc@Cskip=\skip51
+)
+(d:/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(d:/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+(d:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(d:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(d:/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+)
+\Gin@req@height=\dimen137
+\Gin@req@width=\dimen138
+)
+\AM@pagewidth=\dimen139
+\AM@pageheight=\dimen140
+
+(d:/texlive/2020/texmf-dist/tex/latex/pdfpages/ppxetex.def
+File: ppxetex.def 2020/01/28 v0.5q Pdfpages driver for XeTeX (AM)
+)
+\AM@pagebox=\box45
+\AM@global@opts=\toks16
+\AM@pagecnt=\count174
+\AM@toc@title=\toks17
+\c@AM@survey=\count175
+\AM@templatesizebox=\box46
+)
+(d:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-03-12 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count176
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count177
+\g__pdf_backend_annotation_int=\count178
+)
+(./hebing.aux)
+\openout1 = `hebing.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+.
+ (d:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+\AtBeginShipoutBox=\box48
+
+(d:/texlive/2020/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(d:/texlive/2020/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 1>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 1>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 1>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 1>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 1>
+ [1
+
+]
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 2>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 2>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 2>
+ [2]
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 3>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 3>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 3>
+ [3]
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 4>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 4>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 4>
+
+[4]
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 5>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 5>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 5>
+ [5]
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 6>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 6>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 6>
+ [6]
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 7>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 7>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 7>
+ [7]
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 8>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 8>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 8>
+ [8]
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 9>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 9>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 9>
+ [9]
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 10>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 10>
+File: 12CMCA.pdf Graphic file (type pdf)
+<use 12CMCA.pdf, page 10>
+ [10]
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 1>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 1>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 1>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 1>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 1>
+ [11]
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 2>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 2>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 2>
+ [12]
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 3>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 3>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 3>
+ [13]
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 4>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 4>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 4>
+ [14]
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 5>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 5>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 5>
+ [15]
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 6>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 6>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 6>
+ [16]
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 7>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 7>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 7>
+ [17]
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 8>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 8>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 8>
+ [18]
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 9>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 9>
+File: 12CMCB.pdf Graphic file (type pdf)
+<use 12CMCB.pdf, page 9>
+ [19]
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 1>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 1>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 1>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 1>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 1>
+
+[20]
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 2>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 2>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 2>
+ [21]
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 3>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 3>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 3>
+ [22]
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 4>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 4>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 4>
+ [23]
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 5>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 5>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 5>
+ [24]
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 6>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 6>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 6>
+ [25]
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 7>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 7>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 7>
+ [26]
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 8>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 8>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 8>
+ [27]
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 9>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 9>
+File: 11CMCA.pdf Graphic file (type pdf)
+<use 11CMCA.pdf, page 9>
+ [28]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 1>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 1>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 1>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 1>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 1>
+ [29]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 2>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 2>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 2>
+ [30]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 3>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 3>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 3>
+ [31]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 4>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 4>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 4>
+ [32]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 5>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 5>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 5>
+ [33]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 6>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 6>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 6>
+ [34]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 7>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 7>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 7>
+
+[35]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 8>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 8>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 8>
+ [36]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 9>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 9>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 9>
+ [37]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 10>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 10>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 10>
+ [38]
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 11>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 11>
+File: 11CMCB.pdf Graphic file (type pdf)
+<use 11CMCB.pdf, page 11>
+ [39]
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 1>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 1>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 1>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 1>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 1>
+ [40]
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 2>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 2>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 2>
+ [41]
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 3>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 3>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 3>
+ [42]
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 4>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 4>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 4>
+ [43]
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 5>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 5>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 5>
+ [44]
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 6>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 6>
+File: 10CMC.pdf Graphic file (type pdf)
+<use 10CMC.pdf, page 6>
+ [45]
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 1>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 1>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 1>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 1>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 1>
+ [46]
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 2>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 2>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 2>
+ [47]
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 3>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 3>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 3>
+ [48]
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 4>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 4>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 4>
+ [49]
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 5>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 5>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 5>
+
+[50]
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 6>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 6>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 6>
+ [51]
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 7>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 7>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 7>
+ [52]
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 8>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 8>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 8>
+ [53]
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 9>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 9>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 9>
+ [54]
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 10>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 10>
+File: 9CMC.pdf Graphic file (type pdf)
+<use 9CMC.pdf, page 10>
+ [55]
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 1>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 1>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 1>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 1>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 1>
+ [56]
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 2>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 2>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 2>
+ [57]
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 3>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 3>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 3>
+ [58]
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 4>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 4>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 4>
+ [59]
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 5>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 5>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 5>
+ [60]
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 6>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 6>
+File: 8CMC.pdf Graphic file (type pdf)
+<use 8CMC.pdf, page 6>
+ [61]
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 1>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 1>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 1>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 1>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 1>
+ [62]
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 2>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 2>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 2>
+ [63]
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 3>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 3>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 3>
+ [64]
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 4>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 4>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 4>
+
+[65]
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 5>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 5>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 5>
+ [66]
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 6>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 6>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 6>
+ [67]
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 7>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 7>
+File: 7CMC.pdf Graphic file (type pdf)
+<use 7CMC.pdf, page 7>
+ [68]
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 1>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 1>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 1>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 1>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 1>
+ [69]
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 2>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 2>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 2>
+ [70]
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 3>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 3>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 3>
+ [71]
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 4>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 4>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 4>
+ [72]
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 5>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 5>
+File: 6CMC.pdf Graphic file (type pdf)
+<use 6CMC.pdf, page 5>
+ [73]
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 1>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 1>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 1>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 1>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 1>
+ [74]
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 2>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 2>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 2>
+ [75]
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 3>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 3>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 3>
+ [76]
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 4>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 4>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 4>
+ [77]
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 5>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 5>
+File: 5CMC.pdf Graphic file (type pdf)
+<use 5CMC.pdf, page 5>
+ [78]
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 1>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 1>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 1>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 1>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 1>
+ [79]
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 2>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 2>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 2>
+
+[80]
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 3>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 3>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 3>
+ [81]
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 4>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 4>
+File: 4CMC.pdf Graphic file (type pdf)
+<use 4CMC.pdf, page 4>
+ [82]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 1>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 1>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 1>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 1>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 1>
+ [83]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 2>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 2>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 2>
+ [84]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 3>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 3>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 3>
+ [85]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 4>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 4>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 4>
+ [86]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 5>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 5>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 5>
+ [87]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 6>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 6>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 6>
+ [88]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 7>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 7>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 7>
+ [89]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 8>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 8>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 8>
+ [90]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 9>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 9>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 9>
+ [91]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 10>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 10>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 10>
+ [92]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 11>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 11>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 11>
+ [93]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 12>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 12>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 12>
+ [94]
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 13>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 13>
+File: 3CMC.pdf Graphic file (type pdf)
+<use 3CMC.pdf, page 13>
+
+[95]
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 1>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 1>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 1>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 1>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 1>
+ [96]
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 2>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 2>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 2>
+ [97]
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 3>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 3>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 3>
+ [98]
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 4>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 4>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 4>
+ [99]
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 5>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 5>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 5>
+ [100]
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 6>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 6>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 6>
+ [101]
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 7>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 7>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 7>
+ [102]
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 8>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 8>
+File: 2CMC.pdf Graphic file (type pdf)
+<use 2CMC.pdf, page 8>
+ [103]
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 1>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 1>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 1>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 1>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 1>
+ [104]
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 2>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 2>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 2>
+ [105]
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 3>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 3>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 3>
+ [106]
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 4>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 4>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 4>
+ [107]
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 5>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 5>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 5>
+
+[108]
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 6>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 6>
+File: 1CMC.pdf Graphic file (type pdf)
+<use 1CMC.pdf, page 6>
+ [109] (./hebing.aux) ) 
+Here is how much of TeX's memory you used:
+ 2646 strings out of 479418
+ 41826 string characters out of 5888105
+ 281455 words of memory out of 5000000
+ 20146 multiletter control sequences out of 15000+600000
+ 532346 words of font info for 25 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 41i,18n,45p,253b,418s stack positions out of 5000i,500n,10000p,500000b,80000s
+
+Output written on hebing.pdf (109 pages).
