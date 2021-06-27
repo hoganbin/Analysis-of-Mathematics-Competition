@@ -1,0 +1,2 @@
+# Analysis-of-Mathematics-Competition
+本文档是利用了latex中pdfpages包进行文档合并，包括了2009-2020年从第一届数学竞赛到第十二届所有预赛试题解析
